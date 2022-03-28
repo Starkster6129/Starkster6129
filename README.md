@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Starkster6129
-- 👀 I’m interested in learning new tchnologies specially Blockchain 
+- 👀 I’m interested in learning new technologies specially Blockchain 
 - 🌱 I’m currently learningpython and solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
